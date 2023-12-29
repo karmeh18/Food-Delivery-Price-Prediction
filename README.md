@@ -1,6 +1,6 @@
 # Food-Delivery-Time-Prediction
 
-1. Food delivery services like Zomato and Swiggy utilize machine learning algorithms to predict accurate food delivery times based on historical delivery data.
+1. Food delivery services like Zomato and Swiggy in India utilize machine learning algorithms to predict accurate food delivery times based on historical delivery data.
 2. Factors contributing to food delivery time prediction include the age and ratings of the delivery partner, as well as the distance between the restaurant and the delivery location.
 3. An inverse linear relationship exists between the time taken to deliver food and the ratings of the delivery partner.
 4. To predict food delivery time in real-time, the distance between the food preparation point and the point of food consumption is calculated, and past delivery times for the same distance are analyzed.
